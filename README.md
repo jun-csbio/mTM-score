@@ -11,7 +11,8 @@ This is a tool for calculating TM-score for measure the quailty of the protein c
 
 ## Update History:
 
-- First release          2024-04-22
+- Add NW-align for A9B9 case    2024-04-29
+- First release                 2024-04-22
 
 ## Tips
 
